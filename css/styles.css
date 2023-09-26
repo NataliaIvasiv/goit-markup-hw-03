@@ -117,6 +117,7 @@ color: #434455;
 .main-page{
     text-align: center;
     background-color: #2E2F42;
+    padding: 188px 0;
     
 height: 600px;
 flex-shrink: 0;
@@ -132,7 +133,7 @@ padding-top: 188px;
         margin-right: 472px; 
         margin-left:  472px;
         margin-bottom: 48px;
-        width: 496px;
+        max-width: 496px;
 }
 .button-order-serv{
     color: #FFF;
@@ -205,6 +206,8 @@ padding: 120px 156px;
 /* --------our-team-section-------- */
 .our-team-section{
     background: #F4F4FD;
+   padding: 120px 0;
+
 }
 .our-team-list{
     display: flex;
@@ -248,7 +251,7 @@ li {
 
 
 /* ------our-portfolio-section------- */
-.our-portfolio section{
+.our-portfolio-section{
     padding: 120px 0 120px 0;
 }
 .section-title{
