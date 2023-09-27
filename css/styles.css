@@ -49,8 +49,8 @@ header{
  height: 72px;
 align-items: center;
 /* flex-shrink: 0; */
-padding-left: 156px;
-padding-right: 156px; 
+/* padding-left: 156px;
+padding-right: 156px;  */
 }
 /* .header-navigation{
     display: flex;
@@ -201,9 +201,9 @@ background: #404BBF;
     overflow: hidden;
    }
 
-.section{
+/* .section{
 padding: 120px 156px;
-}
+} */
 
 /* --------our-team-section-------- */
 .our-team-section{
@@ -295,7 +295,7 @@ li {
 .our-portfolio-text {
     color: #434455;
     margin-top: 0;
-    margin-bottom: 32px;
+    /* margin-bottom: 32px; */
     /* margin-left: 16px;
     margin-right: 16px; */
 }
@@ -303,6 +303,7 @@ li {
     
     border: 1px solid #e7e9fc; 
     border-top: none;
+    padding: 32px 16px;
 }
 
 /* -------footer---------------------- */
